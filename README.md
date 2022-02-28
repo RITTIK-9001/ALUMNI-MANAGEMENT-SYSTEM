@@ -1,1 +1,3 @@
 # ALUMNI-MANAGEMENT-SYSTEM
+
+An alumni association of any institute is an association of graduates or called alumni or more broadly of former students. These associations arrange various social events to come up with different types of advantages that assist former students to keep connections to their educational organization and new alumni to build new friendship and professional relationship with people belongs to similar type of professional background. This system is focused on developing a web-based implementation which we can access from anywhere of the world and designing various engine for the alumni which is very important to a college. 
